@@ -4,9 +4,11 @@ It will be a  game where a space ship will fight enemy AI ships.The game is writ
 How to setup SFML?
 
 To setup SFML on Linux: https://www.sfml-dev.org/tutorials/2.5/start-linux.php
+
 To setup SFML on Windows: https://www.sfml-dev.org/tutorials/2.5/start-cb.php
 
 To compile and run from terminal use:
+
 g++ 1_FirstProg.cpp -o 1_FirstProg -lsfml-graphics -lsfml-window -lsfml-system
 ./1_FirstProg
 
