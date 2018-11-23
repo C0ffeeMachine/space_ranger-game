@@ -2,6 +2,7 @@
 It will be a  game where a space ship will fight enemy AI ships.The game is written in C++ and for rendering,graphics,etc. SFML is used whose documentation can be found on https://sfml-dev.org.
 
 How to setup SFML?
+
 To setup SFML on Linux: https://www.sfml-dev.org/tutorials/2.5/start-linux.php
 To setup SFML on Windows: https://www.sfml-dev.org/tutorials/2.5/start-cb.php
 
